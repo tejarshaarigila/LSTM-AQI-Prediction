@@ -40,4 +40,4 @@ This project is licensed under the MIT License.
 
 ## References
 
-Environmental Protection Agency. (n.d.). *Outdoor air quality data*. Retrieved from [https://www.epa.gov/outdoor-air-quality-data](https://www.epa.gov/outdoor-air-quality-data)
+Environmental Protection Agency. (2024.). *Outdoor air quality data*. Retrieved from [https://www.epa.gov/outdoor-air-quality-data](https://www.epa.gov/outdoor-air-quality-data)
